@@ -1432,7 +1432,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header > * {
-				margin-top: 1rem;
+				margin-top: 2rem;
 			}
 
 				#header > *:before {
